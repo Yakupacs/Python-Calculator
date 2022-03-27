@@ -1,3 +1,3 @@
 # Python-Calculator
 
-I created calculator with "Tkinter" module.
+I created calculator with "tkinter" module.
